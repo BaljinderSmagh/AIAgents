@@ -1,4 +1,4 @@
-name: aigents
+name: sqlagent
 channels:
   - conda-forge
   - defaults
